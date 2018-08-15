@@ -1,5 +1,7 @@
 # Blockchain Warmup Task
 
+English|[中文](README_zh.md)
+
 This repo tries to collect task for Blockchain learner.
 
 
