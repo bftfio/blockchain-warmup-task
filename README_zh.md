@@ -10,7 +10,7 @@
 
 ### 我是一个区块链初学者
 
-如果你尝试学习区块链，并且想找一些热身任务去做练习，你可以在 [Issue-list](https://github.com/bftfio/blockchain-warmup-task/issues) 列表立找一个自己喜欢的任务去完成。
+如果你尝试学习区块链，并且想找一些热身任务去做练习，你可以在 [Issue-list](https://github.com/bftfio/blockchain-warmup-task/issues) 列表里找一个自己喜欢的任务去完成。
 
 
 
